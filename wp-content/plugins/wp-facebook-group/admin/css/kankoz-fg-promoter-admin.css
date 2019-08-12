@@ -1,0 +1,17 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ .beautiful-taxonomy-filters-tabs{
+	padding: 15px;
+	background: #FFF;
+    border-width: 0px 1px 1px;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-right-color: rgb(204, 204, 204);
+    border-bottom-color: rgb(204, 204, 204);
+    border-left-color: rgb(204, 204, 204);
+
+}

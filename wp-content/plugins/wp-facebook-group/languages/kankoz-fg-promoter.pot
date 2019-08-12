@@ -1,0 +1,142 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Facebook Group Promoter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-16 14:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: widgets/class-kankoz-fg-promoter-widget.php:103
+msgid "Banner Width - Minimum is 180, default is 280 & maximum is 500:"
+msgstr ""
+
+#: admin/class-kankoz-fg-promoter-admin.php:184
+msgid "Basic Settings"
+msgstr ""
+
+#: admin/class-kankoz-fg-promoter-admin.php:258
+msgid "Display Position"
+msgstr ""
+
+#: admin/class-kankoz-fg-promoter-admin.php:191
+msgid "Display Settings"
+msgstr ""
+
+#: admin/partials/kankoz-fg-promoter-admin-display.php:26
+msgid "Email Marketing"
+msgstr ""
+
+#: admin/class-kankoz-fg-promoter-admin.php:198
+msgid "Enable"
+msgstr ""
+
+#: admin/class-kankoz-fg-promoter-admin.php:210
+msgid "Facebook App ID"
+msgstr ""
+
+#: admin/partials/kankoz-fg-promoter-admin-display.php:19
+msgid "Facebook Group Promoter Settings"
+msgstr ""
+
+#: widgets/class-kankoz-fg-promoter-widget.php:67
+msgid "false"
+msgstr ""
+
+#: admin/class-kankoz-fg-promoter-admin.php:222
+msgid "Group URL"
+msgstr ""
+
+#: widgets/class-kankoz-fg-promoter-widget.php:82
+msgid "Group URL:"
+msgstr ""
+
+#: admin/partials/kankoz-fg-promoter-admin-display.php:27
+msgid "Help & Docs"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://kankoz.com/product/wp-facebook-group-promoter-pro/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wordpress.org/plugins/wp-facebook-group"
+msgstr ""
+
+#: admin/class-kankoz-fg-promoter-admin.php:282
+msgid "Include Metadata"
+msgstr ""
+
+#: widgets/class-kankoz-fg-promoter-widget.php:95
+msgid "Include Metadata:"
+msgstr ""
+
+#: admin/class-kankoz-fg-promoter-admin.php:270
+msgid "Include Social Context"
+msgstr ""
+
+#. Author of the plugin
+msgid "Jamiu Oloyede"
+msgstr ""
+
+#. Base ID
+#: widgets/class-kankoz-fg-promoter-widget.php:15
+msgid "Join My Group"
+msgstr ""
+
+#: widgets/class-kankoz-fg-promoter-widget.php:73
+msgid "light"
+msgstr ""
+
+#: admin/partials/kankoz-fg-promoter-admin-display.php:25
+msgid "Main Settings"
+msgstr ""
+
+#: admin/class-kankoz-fg-promoter-admin.php:246
+msgid "Post Type Display"
+msgstr ""
+
+#: admin/class-kankoz-fg-promoter-admin.php:294
+msgid "Set Theme Color:"
+msgstr ""
+
+#: widgets/class-kankoz-fg-promoter-widget.php:87
+msgid "Show Social Context:"
+msgstr ""
+
+#: widgets/class-kankoz-fg-promoter-widget.php:16
+msgid "Shows facebook group plugin in a widget"
+msgstr ""
+
+#: widgets/class-kankoz-fg-promoter-widget.php:108
+msgid "Switch Theme Color:"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This Facebook Group Plugin lets people join your Facebook group from a link "
+"on your web page, widget or via shortcode."
+msgstr ""
+
+#: widgets/class-kankoz-fg-promoter-widget.php:77
+msgid "Title:"
+msgstr ""
+
+#: widgets/class-kankoz-fg-promoter-widget.php:64
+msgid "true"
+msgstr ""
+
+#: admin/class-kankoz-fg-promoter-admin.php:234
+msgid "Width of the Plugin"
+msgstr ""
+
+#. Name of the plugin
+msgid "WP Facebook Group Promoter"
+msgstr ""
