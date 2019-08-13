@@ -14,7 +14,12 @@ COMO SUBIR
 
 1) CLONAR EL REPOSITORIO CON HERRAMIENTRAS DE GIT SOFTWARE
 
+![alt text](clonarpasos/2.png)
+![alt text](clonarpasos/3.png)
+![alt text](clonarpasos/4.png)
+![alt text](clonarpasos/5.png)
+![alt text](clonarpasos/6.png)
+
+
 2) SUBIR  A HTDOCS ( ALGUNOS HOSTING NO PERMITEN SUBIR FUERA DE ESTE FOLDER) LA ULTIMA VERSION CON FILEZILLA O OTRO SOFTWARE DE ADMINISTRACION FTP.
 APUNTAR A LA DB ACTUAL DEL ULTIMO WORDPRESS DE CATIA ONLINE 
-
-![alt text](clonarpasos/2.png)
