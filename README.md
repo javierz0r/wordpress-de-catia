@@ -17,7 +17,7 @@ COMO SUBIR
 ![alt text](clonarpasos/2.png)
 ![alt text](clonarpasos/3.png)
 ![alt text](clonarpasos/4.png)
-![alt text](clonarpasos/5.png)
+![alt text](clonarpasos/5b.png)
 ![alt text](clonarpasos/6.png)
 
 
