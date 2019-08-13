@@ -1,4 +1,12 @@
-# wordpress-de-catia
+1) en caliente con el servidor:
+
+NOTA: LA OTRA POSIBILIDAD DE MANTENIMIENTO ES REALIZARLOS EN CALIENTE, DEPURAR LAS FALLAS Y USAR
+All-in-One WP Migration descargar el archivo este plugin fragmenta las descargas! y evita errores ftp bajada.
+instalarlo en un wordpess local.
+comprimir la carpeta del proyecto y subir el comprimido a un drive seguro.
+
+
+2) por el repositorio:
 el repositorio del wordpress de l2 catia
 
 La idea con este repositorio, es que no importa donde este alojada la web, nunca se pierda ningun avance del desarrollo del wordpress, para instalarlo estos son los pasos:
